@@ -1,0 +1,8 @@
+.task-filter {
+    display: flex;
+    align-items: center;
+}
+
+.task-filter button {
+    margin-right: 1vw;
+}

@@ -1,0 +1,14 @@
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid 2px rgb(19, 38, 74);
+    border-radius: 5px;
+    height: 6vh;
+    margin-bottom: 5px;
+    padding: 0 1vw;
+}
+
+.list-item .checked {
+    text-decoration: line-through;
+}

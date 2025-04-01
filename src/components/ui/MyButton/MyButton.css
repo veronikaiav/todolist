@@ -1,0 +1,18 @@
+.mybtn {
+    border-radius: 5px;
+    border: none;
+    padding: 1vh 1vw;
+    height: 4vh;
+    width: auto;
+    cursor: pointer;
+    background-color: rgb(122, 158, 251);
+    color: white;
+    box-shadow: 2px 2px lightgrey;
+}
+
+.mybtn:focus,
+.mybtn:hover,
+.mybtn.active {
+    background-color: rgb(201, 232, 247);
+    color: rgb(19, 38, 74);
+}
